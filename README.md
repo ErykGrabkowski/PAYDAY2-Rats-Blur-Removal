@@ -5,3 +5,5 @@ A small script that removes the blur from Rats Day 1/Cook Off for people that ha
 I have no idea who created the original file, I just simply converted it to BLT.
 
 Originally posted on lastbullet.net / modworkshop.net before being uploaded to Github. https://modworkshop.net/mod/15368
+
+![Uploading preview_13290_1455561764_8515b5f1dd2eaad053daac200686cc8b-2.png…]()
